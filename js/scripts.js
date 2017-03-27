@@ -1,4 +1,4 @@
-var lista = document.getElementById('list');
+var lista = document.getElementById('list'),
 	liElements = document.getElementsByTagName('li'),
 		add = document.getElementById('addElem');
 
